@@ -27,17 +27,13 @@ A beginner-friendly Python terminal game. The computer picks a random number fro
 
 ## Example
 
-The number changes randomly on every run. This is **one possible game** (for illustration, the secret number is 42):
+The secret number changes randomly on each run. Here is one possible game where the number is 42:
 
 ```text
 Guess the lucky number between 1 and 100!
-Guess the lucky number: hello
-Please enter a valid whole number.
-Guess the lucky number: 200
-Please enter a number between 1 and 100.
 Guess the lucky number: 50
 Too high, try again.
-Guess the lucky number: 30
+Guess the lucky number: 25
 Too low, try again.
 Guess the lucky number: 42
 Correct guess! You won the game!
